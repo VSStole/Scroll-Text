@@ -1,0 +1,16 @@
+#scroll{
+
+    width: 700px;
+    height: 200px;
+    border-radius: 1px solid rgb(1, 0, 0);
+    border-radius: 20px;
+    background: rgb(206, 154, 212);
+    margin: 200px auto;
+    line-height: 200px;
+    font-size: 3em;
+    text-align: center;
+    box-shadow: 10px 10px 10px gray;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
